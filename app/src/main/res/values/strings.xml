@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ServiceResurrection</string>
+    <string name="bind_activity_to_server">Bind Activity to Server</string>
+    <string name="unbind_activity_to_server">Unbind Activity to Server</string>
+    <string name="bind_activity_to_client">Bind Activity to Client</string>
+    <string name="unbind_activity_to_client">Unbind Activity to Client</string>
+    <string name="bind_client_to_server">Bind Client to Server</string>
+    <string name="unbind_client_to_server">Unbind Client to Server</string>
+    <string name="make_client_listen_to_server">Make Client Listen to Server</string>
+    <string name="send_from_activity_to_server">Send From Activity To Server</string>
+    <string name="send_from_client_to_server">Send from Client to Server</string>
+    <string name="make_activity_listen_to_server">Make Activity Listen to Server</string>
+</resources>
